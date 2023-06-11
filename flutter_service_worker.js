@@ -39,11 +39,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "afc697428cbed82c02167b9399c1fd36",
 "icons/Icon-maskable-192.png": "f17044d528a922b8085a274d37f18a75",
 "icons/Icon-maskable-512.png": "afc697428cbed82c02167b9399c1fd36",
-"index.html": "d107f6fdb039de5f2ecfbb9d07bc287b",
-"/": "d107f6fdb039de5f2ecfbb9d07bc287b",
+"index.html": "abd8173d510b4f7da1b1f95614aa2bf1",
+"/": "abd8173d510b4f7da1b1f95614aa2bf1",
 "lib/pocketpy.js": "415a8412e00d00f30672e50f293636c7",
 "lib/pocketpy.wasm": "adda2e6e5971e835f366446114e3b93c",
-"main.dart.js": "6c996cbfbdf2c334296fa4e0fb34f63e",
+"main.dart.js": "de44133e69070f1232a86a507cceef1b",
 "manifest.json": "c10447ff8e64293b437314b67571c805",
 "version.json": "7c0d7a90d33a54c397447dece9203fd0"
 };
