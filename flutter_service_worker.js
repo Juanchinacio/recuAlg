@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d3593d394c62287390ef80875245b064",
+  "assets/AssetManifest.json": "4b0643a9a1f2ceddb601316d2ce11bc0",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/lib/src/assets/images/arrow.png": "b167f37ff33d740067bc3a6debde33fe",
@@ -15,12 +15,14 @@ const RESOURCES = {
 "assets/lib/src/assets/images/factorial.png": "ce768c5d0223e91770df0718c44220bb",
 "assets/lib/src/assets/images/favicon.png": "43cbf73b47a7b55809b94b59d47fbd4a",
 "assets/lib/src/assets/images/fibonacci_n.png": "17f169196b1e0c77007948351af85b8e",
-"assets/lib/src/assets/images/find_max.png": "6498a6199259669f47160aff86366b13",
+"assets/lib/src/assets/images/find_max.png": "a85ee9a210c4d3c3cf4b3a0c3987f551",
+"assets/lib/src/assets/images/invbitperm.png": "434e6dacde44760701d692864fd007d2",
 "assets/lib/src/assets/images/is_palindrome.png": "09b2420b613e5668a35b9b830c3fa703",
 "assets/lib/src/assets/images/is_prime.png": "fe34b65703a88ac9b3af619d28258dd2",
 "assets/lib/src/assets/images/list_length.png": "51fe0ff75904d10128baad55068e9ea0",
-"assets/lib/src/assets/images/list_sum.png": "09256c502fc4765f1436cdb159a7fc49",
+"assets/lib/src/assets/images/list_sum.png": "e2a05de55ac019c21d508d55cd0e1b23",
 "assets/lib/src/assets/images/mcd.png": "c4d4e8b2c8a3638e742f74025d11b1b3",
+"assets/lib/src/assets/images/merge_sort.png": "38a61142d13eef156e9b50ee6b1f7baf",
 "assets/lib/src/assets/images/multi.png": "870e036837cd0aa26a5ebccd018bbda8",
 "assets/lib/src/assets/images/natural_sum.png": "036e940ce32b73e788f3803db4a65ae9",
 "assets/lib/src/assets/images/power.png": "253d6a1434f63855a29d6f0e00d35e08",
@@ -39,11 +41,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "afc697428cbed82c02167b9399c1fd36",
 "icons/Icon-maskable-192.png": "f17044d528a922b8085a274d37f18a75",
 "icons/Icon-maskable-512.png": "afc697428cbed82c02167b9399c1fd36",
-"index.html": "abd8173d510b4f7da1b1f95614aa2bf1",
-"/": "abd8173d510b4f7da1b1f95614aa2bf1",
+"index.html": "70319d6ee7505888c9e08aa2cd0485f5",
+"/": "70319d6ee7505888c9e08aa2cd0485f5",
 "lib/pocketpy.js": "415a8412e00d00f30672e50f293636c7",
 "lib/pocketpy.wasm": "adda2e6e5971e835f366446114e3b93c",
-"main.dart.js": "de44133e69070f1232a86a507cceef1b",
+"main.dart.js": "f80927f124a2117442fb5ce989eaace3",
 "manifest.json": "c10447ff8e64293b437314b67571c805",
 "version.json": "7c0d7a90d33a54c397447dece9203fd0"
 };
